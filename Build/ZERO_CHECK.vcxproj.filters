@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Repositories\mp2-lab2-matrix\Build\CMakeFiles\1317c4d05f022b4c09967c273f9a2780\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D8BFD469-9087-32C7-A0ED-F72ACF5EC6EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
