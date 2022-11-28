@@ -1,6 +1,0 @@
-D:/Repositories/mp2-lab2-matrix/Build/CMakeFiles/ALL_BUILD.dir
-D:/Repositories/mp2-lab2-matrix/Build/CMakeFiles/ZERO_CHECK.dir
-D:/Repositories/mp2-lab2-matrix/Build/include/CMakeFiles/matrix.dir
-D:/Repositories/mp2-lab2-matrix/Build/samples/CMakeFiles/sample_matrix.dir
-D:/Repositories/mp2-lab2-matrix/Build/gtest/CMakeFiles/gtest.dir
-D:/Repositories/mp2-lab2-matrix/Build/test/CMakeFiles/test_matrix.dir
